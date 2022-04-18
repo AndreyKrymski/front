@@ -1,5 +1,5 @@
 # Brain Games #
-[![Actions Status](https://github.com/AndreyKrymski/front/workflows/hexlet-check/badge.svg)](https://github.com/AndreyKrymski/front/actions)
+[![hexlet-check](https://github.com/AndreyKrymski/front/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/AndreyKrymski/front/actions/workflows/hexlet-check.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/abcc05b3e9f34db45faa/maintainability)](https://codeclimate.com/github/AndreyKrymski/frontend-project-lvl1/maintainability)<br>
 «Игры разума» — набор из пяти консольных игр, построенных по принципу популярных мобильных приложений для прокачки мозга. Каждая игра задает вопросы, на которые нужно дать правильные ответы. После трех правильных ответов считается, что игра пройдена. Неправильные ответы завершают игру и предлагают пройти ее заново. Игры:<br>
 - Калькулятор. Арифметические выражения, которые необходимо вычислить.<br>
